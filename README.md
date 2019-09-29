@@ -1,7 +1,7 @@
-# ChallengeCustomersorders
-Challenge: Customer's orders
+# KHAN ACADEMY
 
 
-KHAN ACADEMY 
+KHAN ACADEMY SQL PROJECT
 
-Challenge: Customer's orders
+
+
